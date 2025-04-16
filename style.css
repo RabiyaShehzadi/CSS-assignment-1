@@ -1,0 +1,36 @@
+h1{
+    color: black;
+    text-align: center;
+    background-color: #be4d10d4;
+    padding: 70px;
+    font-size: 40px;
+}
+body{
+    background-color: #e4cd31;
+}
+.link ul{
+    list-style: none;
+    text-align:center;
+    font-size: larger;
+    
+    /*background-color: rgb(228, 205, 49)*/
+}
+.link li{
+    display: inline-block;
+    
+
+}
+.link a{
+    color: green;
+    text-decoration:none;
+    width: 100px;
+    display: block;
+    
+}
+.para{
+    font-weight: 600;
+    color: #613117d4 ;
+}
+p{
+    font-weight: 600;
+}
